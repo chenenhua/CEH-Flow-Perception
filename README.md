@@ -150,9 +150,7 @@ See:
 请参见：
 
 - LICENSE.md
-- LICENSE.md
 
-- COMMERCIAL_LICENSE.md
 - COMMERCIAL_LICENSE.md
 
 ## 7.  Build and Run (Mac)
